@@ -1,0 +1,31 @@
+1 anaconda：
+链接：https://mirrors.tuna.tsinghua.edu.cn/anaconda/archive/?C=M&O=A
+文件名：Anaconda3-5.1.0-Linux-x86_64.sh
+
+
+2 相关包库
+下载地址：https://www.lfd.uci.edu/~gohlke/pythonlibs/
+xgboost
+jieba
+flask
+gunicorn
+werkzeug
+gunicorn
+gevent
+
+
+关于Python安装官方whl包和tar.gz包的方法详解(收藏)
+
+Windows环境：
+
+　　安装whl包：pip install wheel -> pip install **.whl
+
+　　安装tar.gz包：cd到解压后路径,python setup.py install
+
+Linux环境：
+
+　　安装whl同上
+
+　　安装tar.gz:cd到解压后路径,./configure -> make -> make install
+
+

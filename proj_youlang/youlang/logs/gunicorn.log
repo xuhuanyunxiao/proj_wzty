@@ -1,0 +1,32 @@
+﻿2018-08-13 14:18:40  Server_youlang_20180813.py[line:148]  INFO starting judge_correlation_i, {list_size: 1}
+2018-08-13 14:18:40  Server_youlang_20180813.py[line:166]  INFO end judge_correlation_i: {ret_list: 1, lost_seconds: 0s}
+2018-08-13 14:19:19  Server_youlang_20180813.py[line:148]  INFO starting judge_correlation_i, {list_size: 7}
+2018-08-13 14:19:19  Server_youlang_20180813.py[line:166]  INFO end judge_correlation_i: {ret_list: 7, lost_seconds: 0s}
+2018-08-13 14:25:00  Server_youlang_20180813.py[line:150]  INFO starting judge_correlation_i, {list_size: 7}
+2018-08-13 14:25:00  Server_youlang_20180813.py[line:168]  INFO end judge_correlation_i: {ret_list: 7, lost_seconds: 0s}
+2018-08-13 14:25:01  Server_youlang_20180813.py[line:150]  INFO starting judge_correlation_i, {list_size: 7}
+2018-08-13 14:25:01  Server_youlang_20180813.py[line:168]  INFO end judge_correlation_i: {ret_list: 7, lost_seconds: 0s}
+2018-08-13 14:26:50  Server_youlang_20180813.py[line:150]  INFO starting judge_correlation_i, {list_size: 7}
+2018-08-13 14:26:50  Server_youlang_20180813.py[line:168]  INFO end judge_correlation_i: {ret_list: 7, lost_seconds: 0s}
+2018-08-13 14:26:51  Server_youlang_20180813.py[line:150]  INFO starting judge_correlation_i, {list_size: 7}
+2018-08-13 14:26:51  Server_youlang_20180813.py[line:168]  INFO end judge_correlation_i: {ret_list: 7, lost_seconds: 0s}
+2018-08-13 14:26:57  Server_youlang_20180813.py[line:150]  INFO starting judge_correlation_i, {list_size: 7}
+2018-08-13 14:26:58  Server_youlang_20180813.py[line:168]  INFO end judge_correlation_i: {ret_list: 7, lost_seconds: 0s}
+2018-08-13 14:26:59  Server_youlang_20180813.py[line:150]  INFO starting judge_correlation_i, {list_size: 7}
+2018-08-13 14:26:59  Server_youlang_20180813.py[line:168]  INFO end judge_correlation_i: {ret_list: 7, lost_seconds: 0s}
+2018-08-13 14:37:21  Server_youlang_20180813.py[line:150]  INFO starting judge_correlation_i, {list_size: 7}
+2018-08-13 14:37:21  Server_youlang_20180813.py[line:168]  INFO end judge_correlation_i: {ret_list: 7, lost_seconds: 0s}
+2018-08-13 14:37:22  Server_youlang_20180813.py[line:150]  INFO starting judge_correlation_i, {list_size: 7}
+2018-08-13 14:37:22  Server_youlang_20180813.py[line:168]  INFO end judge_correlation_i: {ret_list: 7, lost_seconds: 0s}
+2018-08-13 16:03:02  Server_youlang_20180813.py[line:146]  INFO starting judge_correlation_i, {list_size: 7}
+2018-08-13 16:03:02  Server_youlang_20180813.py[line:165]  INFO end judge_correlation_i: {ret_list: 7, lost_seconds: 0s}
+2018-08-13 16:03:14  Server_youlang_20180813.py[line:146]  INFO starting judge_correlation_i, {list_size: 7}
+2018-08-13 16:03:14  Server_youlang_20180813.py[line:165]  INFO end judge_correlation_i: {ret_list: 7, lost_seconds: 0s}
+2018-08-13 16:03:25  Server_youlang_20180813.py[line:146]  INFO starting judge_correlation_i, {list_size: 7}
+2018-08-13 16:03:25  Server_youlang_20180813.py[line:165]  INFO end judge_correlation_i: {ret_list: 7, lost_seconds: 0s}
+2018-08-13 16:03:32  Server_youlang_20180813.py[line:146]  INFO starting judge_correlation_i, {list_size: 7}
+2018-08-13 16:03:32  Server_youlang_20180813.py[line:165]  INFO end judge_correlation_i: {ret_list: 7, lost_seconds: 0s}
+2018-08-13 16:03:39  Server_youlang_20180813.py[line:146]  INFO starting judge_correlation_i, {list_size: 7}
+2018-08-13 16:03:39  Server_youlang_20180813.py[line:165]  INFO end judge_correlation_i: {ret_list: 7, lost_seconds: 0s}
+2018-08-13 16:06:54  Server_youlang_20180813.py[line:146]  INFO starting judge_correlation_i, {list_size: 7}
+2018-08-13 16:06:54  Server_youlang_20180813.py[line:165]  INFO end judge_correlation_i: {ret_list: 7, lost_seconds: 0s}

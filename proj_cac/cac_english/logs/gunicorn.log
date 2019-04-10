@@ -1,0 +1,25 @@
+2018-10-25 15:18:36  Server_cac_20181025.py[line:38]  INFO starting judge_industry, {list_size: 7}
+2018-10-25 15:18:59  Server_cac_20181025.py[line:38]  INFO starting judge_industry, {list_size: 2}
+2018-10-25 15:18:59  Server_cac_20181025.py[line:55]  INFO end judge_industry: {ret_list: 2, lost_seconds: 0s}
+2018-10-25 15:22:04  Server_cac_20181025.py[line:38]  INFO starting judge_industry, {list_size: 2}
+2018-10-25 15:22:06  Server_cac_20181025.py[line:55]  INFO end judge_industry: {ret_list: 2, lost_seconds: 2s}
+2018-10-25 15:24:28  Server_cac_20181025.py[line:38]  INFO starting judge_industry, {list_size: 4}
+2018-10-25 15:24:29  Server_cac_20181025.py[line:55]  INFO end judge_industry: {ret_list: 4, lost_seconds: 0s}
+2018-10-25 15:24:42  Server_cac_20181025.py[line:38]  INFO starting judge_industry, {list_size: 4}
+2018-10-25 15:24:43  Server_cac_20181025.py[line:55]  INFO end judge_industry: {ret_list: 4, lost_seconds: 0s}
+2018-10-25 15:25:24  Server_cac_20181025.py[line:38]  INFO starting judge_industry, {list_size: 4}
+2018-10-25 15:25:24  Server_cac_20181025.py[line:55]  INFO end judge_industry: {ret_list: 4, lost_seconds: 0s}
+2018-10-25 15:26:20  Server_cac_20181025.py[line:38]  INFO starting judge_industry, {list_size: 4}
+2018-10-25 15:26:20  Server_cac_20181025.py[line:55]  INFO end judge_industry: {ret_list: 4, lost_seconds: 0s}
+2018-10-25 15:26:22  Server_cac_20181025.py[line:38]  INFO starting judge_industry, {list_size: 4}
+2018-10-25 15:26:22  Server_cac_20181025.py[line:55]  INFO end judge_industry: {ret_list: 4, lost_seconds: 0s}
+2018-10-25 15:27:15  Server_cac_20181025.py[line:38]  INFO starting judge_industry, {list_size: 4}
+2018-10-25 15:27:15  Server_cac_20181025.py[line:55]  INFO end judge_industry: {ret_list: 4, lost_seconds: 0s}
+2018-10-25 15:27:16  Server_cac_20181025.py[line:38]  INFO starting judge_industry, {list_size: 4}
+2018-10-25 15:27:16  Server_cac_20181025.py[line:55]  INFO end judge_industry: {ret_list: 4, lost_seconds: 0s}
+2018-10-25 15:27:50  Server_cac_20181025.py[line:74]  INFO starting decide_tendency, {list_size: 4}
+2018-10-25 15:27:50  Server_cac_20181025.py[line:91]  INFO end decide_tendency: {ret_list: 4, lost_seconds: 0s}
+2018-10-25 15:41:03  Server_cac_20181025.py[line:38]  INFO starting judge_industry, {list_size: 4}
+2018-10-25 15:41:05  Server_cac_20181025.py[line:55]  INFO end judge_industry: {ret_list: 4, lost_seconds: 1s}
+2018-10-25 15:41:16  Server_cac_20181025.py[line:38]  INFO starting judge_industry, {list_size: 4}
+2018-10-25 15:41:16  Server_cac_20181025.py[line:55]  INFO end judge_industry: {ret_list: 4, lost_seconds: 0s}
